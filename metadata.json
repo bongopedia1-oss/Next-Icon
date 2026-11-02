@@ -1,0 +1,6 @@
+{
+  "name": "NEXT ICON",
+  "description": "Live video streaming, multi-guest rooms, social feed, virtual gifts, coins, creator earnings, and agency management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
